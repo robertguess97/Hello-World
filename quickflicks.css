@@ -1,0 +1,259 @@
+
+body{
+
+  color:white;
+  padding-top: 100px;
+  background:url("https://images.homedepot-static.com/productImages/e76d9e4a-e0b6-4a59-84a7-9ec9cab7ad21/svn/advantage-wallpaper-2774-475036-64_600.jpg");
+}
+
+
+.navbar-brand active{
+  text-shadow:2px 2px gray;
+}
+.navbar-inverse .navbar-nav>li>a{
+  color:white;
+}
+
+  .navbar-inverse .navbar-brand {
+    color:white;
+  }
+  
+
+
+  .dropdown-menu{
+    background-color: black;
+    
+  }
+
+ .navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+  color:white;
+ }
+
+ .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover{
+  color:#3a3a3a;
+ }
+  
+  
+  
+
+  .jumbotron{
+    background: url("http://yesofcorsa.com/wp-content/uploads/2017/05/Cinema-Wallpaper-High-Definition-1024x683.jpg");
+    background-size: cover;
+    background-position: center;
+   /* width:1200px;
+    height: 400px;*/
+    border:2px solid white;
+
+  }
+
+.jumbotron h1 {color:white;
+font-weight: bold;
+font-size: 55px;
+text-shadow:1px 1px black;
+}
+  
+  .jumbotron p{color:white;
+    font-weight: normal;
+    font-size: 25px;
+  text-shadow:1px 1px black;}
+
+   .jumbotron a{
+text-shadow:1px 1px black;
+}
+
+.btn btn-primary btn-lg{
+  text-shadow:1px 1px black;}
+
+}
+
+
+  .1st-pic{
+    /*background-size: cover;
+    background-position: center;*/
+  }
+
+/*.thumbnail>img{
+  object-fit:fill;
+  width:auto;
+  height: 200px;*/
+  
+
+.thumbnail a>img, .thumbnail>img {
+    display: block;
+    width: 100%;
+    height: 300px; //change as per your requirement }
+
+
+
+
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  text-shadow: 1px 1px #6d6d6d;
+  
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #;
+  color: white;
+  position:relative;
+  left: 450px;
+
+}
+
+.fa-twitter {
+  background: #;
+  color: white;
+  position:relative;
+  left:500px; 
+}
+
+.fa-instagram {
+  background: #;
+  color: white;
+  position:relative;
+  left: 565px;
+}
+
+.fa-google {
+  background: #;
+  color: white;
+  position:relative;
+  left: 640px; 
+}
+.fa-dribbble {
+  background: #;
+  color: white;
+position:relative; 
+left: 690px;}
+
+.load{
+  
+  position: relative;
+  left: 658px;
+  margin-bottom: 100px;
+  margin-top: 30px;
+
+}
+footer{
+
+  background-color: black;
+  position: absolute;
+
+ 
+}
+
+.load btn-primary btn-lg{
+  margin-bottom: -15px;
+}
+
+
+.create{
+  position: relative;
+  left: 510px;
+  color:white;
+  font-weight: bold;
+  font-size: 65px;
+  text-shadow:2px 2px black;
+}
+/* below controlled create account*/
+
+.form-control{
+  
+  width: 50%;
+ }
+
+
+.container .form-control{
+  
+}
+
+
+.container form{
+  position: relative;
+  left: 250px;
+  top: 95px;
+}
+/* above controlled create account*/
+
+/* Below is the contact us page*/
+
+.form-horizontal{
+  position: relative;
+  left: 150px;
+  top: 95px;
+}
+
+
+.request {
+  position: relative;
+  left: 360px;
+  top: 65px;
+}
+
+ .how{
+   position: relative;
+   left: 50px;
+   top: 25px;
+}
+
+.submit-r {
+  position: relative;
+  left: 60px;
+  top: 50px;
+}
+/* above is the contact us page */
+
+
+
+/*  IS BELOW*/
+
+
+
+
+
+/*  IS ABOVE*/
+
+section{
+  position: relative;
+  left: 450px;
+  width: 535px;
+
+  margin-bottom: 105px;
+  margin-top: 105px;
+  text-shadow: 2px 2px black;
+}
+
+/*PRIVACY HEADER*/
+.privacy{
+  position: relative;
+  left: 500px;
+  font-weight: bold;
+  font-size: 65px;
+  text-shadow: 2px 2px black; 
+}
+/* PRIVACY ABOVE*/
+
+
+/*TERMS HEADER*/
+.terms{
+  position: relative;
+  left: 500px;
+  font-weight: bold;
+  font-size: 65px;
+  text-shadow: 2px 2px black;
+}
+/* TERMS ABOVE*/
+
+
+
+
+
