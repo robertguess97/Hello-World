@@ -1,1 +1,1 @@
-# Hello-World
+#Still learning how to use github but this is my Quick flicks movie project. The layout is finished. I am on route to finish to interactive side using javascript. But the concept of the website is find local movies to rent or buy from individual with no charge from the site. The goal is to make it a digital real estate and eventually charge for marketing services on the site.
